@@ -10,7 +10,7 @@ weight="1"
 Platform Orchestrators are the center piece of any Internal Developer Platform.
 A Platform Orchestrator enables Dynamic Configuration Management.
 
-According to *Thoughtworks*, **Platform Orchestrators** are a "new generation of tools that go beyond the traditional platform-as-a-service (PaaS) model and offer published contracts between developers and platform teams. The contract might involve provisioning cloud environments, databases, monitoring, authentication and more in a different environment. These tools enforce organizational standards while granting developers self-service access to variations through configuration."
+According to _Thoughtworks_, **Platform Orchestrators** are a "new generation of tools that go beyond the traditional platform-as-a-service (PaaS) model and offer published contracts between developers and platform teams. The contract might involve provisioning cloud environments, databases, monitoring, authentication and more in a different environment. These tools enforce organizational standards while granting developers self-service access to variations through configuration."
 
 Source: Thoughtworks, Technology Radar Vol 29, [Platform orchestration](https://www.thoughtworks.com/en-de/radar/techniques/platform-orchestration)
 
@@ -20,8 +20,6 @@ Source: Thoughtworks, Technology Radar Vol 29, [Platform orchestration](https://
 | [Kratix]({{< relref "kratix" >}})           | Open-source platform framework for building composable internal developer platforms (IDPs)                            |
 | [KusionStack]({{< relref "kusionstack" >}}) | Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform            |
 | [Massdriver]({{< relref "massdriver" >}})   | Streamlines the Design and Development of Internal Developer Platform (IDP) with Integrated Infrastructure Visibility |
-
-
-
+| [OpenChoreo]({{< relref "openchoreo" >}})   | Streamlines the Design and Development of Internal Developer Platform (IDP) with Integrated Infrastructure Visibility |
 
 [def]: https://www.thoughtworks.com/en-de/radar/techniques/platform-orchestration
