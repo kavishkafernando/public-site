@@ -28,7 +28,7 @@ OpenChoreo is a platform orchestrator for Kubernetes that lets platform engineer
 | Source                     | Open (Apache 2.0) — CNCF Sandbox project                                                                                                                                                                     |
 | Use Case                   | 	Platform engineering teams building an internal developer platform from scratch or modernizing an existing one on Kubernetes                                                                                                          |
 | Total Cost of Ownership    | FOSS; infrastructure and Kubernetes operational costs apply; enterprise support available through [WSO2](https://wso2.com/engineering-platform/openchoreo/)                                                  |
-| Adoption                   | Active open-source community; CNCF Sandbox since March 2026; production deployments across cloud-native enterprises                                                                                          |
+| Adoption                   | Active open-source community; CNCF Sandbox since January 2026; production deployments across cloud-native enterprises                                                                                          |
 
 {{< button href="https://openchoreo.dev/" target="_blank" >}}
 -> OpenChoreo
